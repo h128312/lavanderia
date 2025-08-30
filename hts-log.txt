@@ -1,0 +1,234 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 30 Aug 2025 13:53:57 at https://lavayseca.com.mx/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://lavayseca.com.mx/ -O1 "C:\My Web Sites\lavanderia" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+13:54:08	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 68): lavayseca.com.mx/wp-content/plugins/revslider/public/assets/assets/dummy.png
+13:55:43	Warning: 	Moved Permanently for https://lavayseca.com.mx/home/
+13:55:43	Warning: 	File has moved from https://lavayseca.com.mx/home/ to https://lavayseca.com.mx/
+13:55:44	Warning: 	Retry after error 500 (Internal Server Error) at link https://connect.facebook.net/es_LA/sdk/xfbml.customerchat.js (from https://lavayseca.com.mx/)
+13:55:48	Error: 	"Not Found" (404) at link https://lavayseca.com.mx/signals/config/ (from https://connect.facebook.net/en_US/fbevents.js)
+13:55:48	Error: 	"Not Found" (404) at link https://lavayseca.com.mx/a (from https://connect.facebook.net/en_US/fbevents.js)
+13:55:48	Error: 	"Not Found" (404) at link https://lavayseca.com.mx/signals/plugins/ (from https://connect.facebook.net/en_US/fbevents.js)
+13:55:48	Error: 	"Not Found" (404) at link https://lavayseca.com.mx/POST (from https://connect.facebook.net/en_US/fbevents.js)
+13:55:48	Error: 	"Not Found" (404) at link https://lavayseca.com.mx/schema.org/ (from https://connect.facebook.net/en_US/fbevents.js)
+13:55:48	Error: 	"Not Found" (404) at link https://lavayseca.com.mx/b.resolvedLink (from https://connect.facebook.net/en_US/fbevents.js)
+13:56:06	Error: 	"Not Found" (404) at link https://lavayseca.com.mx/signals/iwl.js (from https://connect.facebook.net/en_US/fbevents.js)
+13:56:06	Error: 	"Not Found" (404) at link https://lavayseca.com.mx/signals/iwl.js?pixel_id= (from https://connect.facebook.net/en_US/fbevents.js)
+13:56:06	Error: 	"Not Found" (404) at link https://lavayseca.com.mx/c.dl (from https://connect.facebook.net/en_US/fbevents.js)
+13:56:06	Error: 	"Not Found" (404) at link https://lavayseca.com.mx/c.rl (from https://connect.facebook.net/en_US/fbevents.js)
+13:56:06	Warning: 	Moved Permanently for https://lavayseca.com.mx/?p=37
+13:56:06	Warning: 	File has moved from https://lavayseca.com.mx/?p=37 to https://lavayseca.com.mx/franquicias/
+13:56:07	Warning: 	Moved Permanently for https://lavayseca.com.mx/?p=96
+13:56:07	Warning: 	File has moved from https://lavayseca.com.mx/?p=96 to https://lavayseca.com.mx/quienes-somos/
+13:56:07	Error: 	"Not Found" (404) at link https://lavayseca.com.mx/sucursales/location.href (from https://lavayseca.com.mx/sucursales/)
+13:56:07	Error: 	"Not Found" (404) at link https://lavayseca.com.mx/sucursales/Silk (from https://lavayseca.com.mx/sucursales/)
+13:56:07	Warning: 	Moved Permanently for https://lavayseca.com.mx/?p=2366
+13:56:07	Warning: 	File has moved from https://lavayseca.com.mx/?p=2366 to https://lavayseca.com.mx/sucursales/
+13:56:08	Warning: 	Moved Permanently for https://lavayseca.com.mx/?p=963
+13:56:08	Warning: 	File has moved from https://lavayseca.com.mx/?p=963 to https://lavayseca.com.mx/promociones/
+13:56:08	Warning: 	Moved Permanently for https://lavayseca.com.mx/?p=1020
+13:56:08	Warning: 	File has moved from https://lavayseca.com.mx/?p=1020 to https://lavayseca.com.mx/contacto/
+13:56:08	Warning: 	Moved Permanently for https://lavayseca.com.mx/?p=659
+13:56:08	Warning: 	File has moved from https://lavayseca.com.mx/?p=659 to https://lavayseca.com.mx/blog/
+13:56:34	Warning: 	Moved Permanently for https://lavayseca.com.mx/?p=1988
+13:56:34	Warning: 	File has moved from https://lavayseca.com.mx/?p=1988 to https://lavayseca.com.mx/lavatips/
+13:56:34	Warning: 	Moved Permanently for https://lavayseca.com.mx/?p=1168
+13:56:34	Warning: 	File has moved from https://lavayseca.com.mx/?p=1168 to https://lavayseca.com.mx/trabaja-en-lavayseca/
+13:56:34	Warning: 	Retry after error 500 () at link https://connect.facebook.net/es_LA/sdk/xfbml.customerchat.js (from https://lavayseca.com.mx/)
+13:56:34	Error: 	"Not Found" (404) at link https://lavayseca.com.mx/2021/11/30/dime-como-es-tu-closet-y-te-dire-como-tienes-que-lavar-tu-ropa/location.href (from https://lavayseca.com.mx/2021/11/30/dime-como-es-tu-closet-y-te-dire-como-tienes-que-lavar-tu-ropa/)
+13:56:34	Error: 	"Not Found" (404) at link https://lavayseca.com.mx/2021/11/30/dime-como-es-tu-closet-y-te-dire-como-tienes-que-lavar-tu-ropa/Silk (from https://lavayseca.com.mx/2021/11/30/dime-como-es-tu-closet-y-te-dire-como-tienes-que-lavar-tu-ropa/)
+13:57:10	Warning: 	Moved Permanently for https://lavayseca.com.mx/?p=2054
+13:57:10	Warning: 	File has moved from https://lavayseca.com.mx/?p=2054 to https://lavayseca.com.mx/2021/11/30/dime-como-es-tu-closet-y-te-dire-como-tienes-que-lavar-tu-ropa/
+13:57:24	Warning: 	Moved Permanently for https://lavayseca.com.mx/?amp=1
+13:57:24	Warning: 	File has moved from https://lavayseca.com.mx/?amp=1 to https://lavayseca.com.mx/
+13:57:26	Error: 	"Not Found" (404) at link https://lavayseca.com.mx/2022/01/19/el-poliester-encoge-si-se-lava/location.href (from https://lavayseca.com.mx/2022/01/19/el-poliester-encoge-si-se-lava/)
+13:57:26	Error: 	"Not Found" (404) at link https://lavayseca.com.mx/2022/01/19/el-poliester-encoge-si-se-lava/Silk (from https://lavayseca.com.mx/2022/01/19/el-poliester-encoge-si-se-lava/)
+13:57:26	Warning: 	Moved Permanently for https://lavayseca.com.mx/?p=2209
+13:57:26	Warning: 	File has moved from https://lavayseca.com.mx/?p=2209 to https://lavayseca.com.mx/2022/01/19/el-poliester-encoge-si-se-lava/
+13:57:26	Error: 	"Not Found" (404) at link https://lavayseca.com.mx/2022/01/19/como-lavar-una-chamarra-de-plumas/location.href (from https://lavayseca.com.mx/2022/01/19/como-lavar-una-chamarra-de-plumas/)
+13:57:26	Error: 	"Not Found" (404) at link https://lavayseca.com.mx/2022/01/19/como-lavar-una-chamarra-de-plumas/Silk (from https://lavayseca.com.mx/2022/01/19/como-lavar-una-chamarra-de-plumas/)
+13:57:26	Warning: 	Moved Permanently for https://lavayseca.com.mx/?p=2200
+13:57:26	Warning: 	File has moved from https://lavayseca.com.mx/?p=2200 to https://lavayseca.com.mx/2022/01/19/como-lavar-una-chamarra-de-plumas/
+13:57:26	Error: 	"Not Found" (404) at link https://lavayseca.com.mx/2022/01/19/como-quitar-manchas-de-moho-de-la-ropa/location.href (from https://lavayseca.com.mx/2022/01/19/como-quitar-manchas-de-moho-de-la-ropa/)
+13:57:26	Error: 	"Not Found" (404) at link https://lavayseca.com.mx/2022/01/19/como-quitar-manchas-de-moho-de-la-ropa/Silk (from https://lavayseca.com.mx/2022/01/19/como-quitar-manchas-de-moho-de-la-ropa/)
+13:57:26	Warning: 	Moved Permanently for https://lavayseca.com.mx/?p=2194
+13:57:26	Warning: 	File has moved from https://lavayseca.com.mx/?p=2194 to https://lavayseca.com.mx/2022/01/19/como-quitar-manchas-de-moho-de-la-ropa/
+13:57:26	Error: 	"Not Found" (404) at link https://lavayseca.com.mx/2022/01/19/como-evitar-que-la-ropa-huela-a-cerrado/location.href (from https://lavayseca.com.mx/2022/01/19/como-evitar-que-la-ropa-huela-a-cerrado/)
+13:57:26	Error: 	"Not Found" (404) at link https://lavayseca.com.mx/2022/01/19/como-evitar-que-la-ropa-huela-a-cerrado/Silk (from https://lavayseca.com.mx/2022/01/19/como-evitar-que-la-ropa-huela-a-cerrado/)
+13:57:26	Warning: 	Moved Permanently for https://lavayseca.com.mx/?p=2185
+13:57:26	Warning: 	File has moved from https://lavayseca.com.mx/?p=2185 to https://lavayseca.com.mx/2022/01/19/como-evitar-que-la-ropa-huela-a-cerrado/
+13:57:30	Error: 	"Not Found" (404) at link https://lavayseca.com.mx/2022/01/19/como-usar-el-suavizante-de-ropa/location.href (from https://lavayseca.com.mx/2022/01/19/como-usar-el-suavizante-de-ropa/)
+13:57:30	Error: 	"Not Found" (404) at link https://lavayseca.com.mx/2022/01/19/como-usar-el-suavizante-de-ropa/Silk (from https://lavayseca.com.mx/2022/01/19/como-usar-el-suavizante-de-ropa/)
+13:57:30	Warning: 	Moved Permanently for https://lavayseca.com.mx/?p=2179
+13:57:30	Warning: 	File has moved from https://lavayseca.com.mx/?p=2179 to https://lavayseca.com.mx/2022/01/19/como-usar-el-suavizante-de-ropa/
+13:57:30	Error: 	"Not Found" (404) at link https://lavayseca.com.mx/2021/12/08/10-consejos-para-evitar-subir-de-peso-esta-navidad-sin-estar-a-dieta/location.href (from https://lavayseca.com.mx/2021/12/08/10-consejos-para-evitar-subir-de-peso-esta-navidad-sin-estar-a-dieta/)
+13:57:30	Error: 	"Not Found" (404) at link https://lavayseca.com.mx/2021/12/08/10-consejos-para-evitar-subir-de-peso-esta-navidad-sin-estar-a-dieta/Silk (from https://lavayseca.com.mx/2021/12/08/10-consejos-para-evitar-subir-de-peso-esta-navidad-sin-estar-a-dieta/)
+13:57:30	Warning: 	Moved Permanently for https://lavayseca.com.mx/?p=2133
+13:57:30	Warning: 	File has moved from https://lavayseca.com.mx/?p=2133 to https://lavayseca.com.mx/2021/12/08/10-consejos-para-evitar-subir-de-peso-esta-navidad-sin-estar-a-dieta/
+13:57:34	Error: 	"" (500) after 2 retries at link https://connect.facebook.net/es_LA/sdk/xfbml.customerchat.js (from https://lavayseca.com.mx/)
+13:57:34	Warning: 	Moved Permanently for https://lavayseca.com.mx/category/lavayseca/?amp=1
+13:57:34	Warning: 	File has moved from https://lavayseca.com.mx/category/lavayseca/?amp=1 to https://lavayseca.com.mx/category/lavayseca/
+13:58:10	Error: 	"Not Found" (404) at link https://lavayseca.com.mx/2021/10/29/5-ventajas-de-montar-una-lavanderia-de-autoservicio-un-sector-en-auge/location.href (from https://lavayseca.com.mx/2021/10/29/5-ventajas-de-montar-una-lavanderia-de-autoservicio-un-sector-en-auge/)
+13:58:10	Error: 	"Not Found" (404) at link https://lavayseca.com.mx/2021/10/29/5-ventajas-de-montar-una-lavanderia-de-autoservicio-un-sector-en-auge/Silk (from https://lavayseca.com.mx/2021/10/29/5-ventajas-de-montar-una-lavanderia-de-autoservicio-un-sector-en-auge/)
+13:58:10	Warning: 	Moved Permanently for https://lavayseca.com.mx/?p=1979
+13:58:10	Warning: 	File has moved from https://lavayseca.com.mx/?p=1979 to https://lavayseca.com.mx/2021/10/29/5-ventajas-de-montar-una-lavanderia-de-autoservicio-un-sector-en-auge/
+13:58:15	Error: 	"Not Found" (404) at link https://lavayseca.com.mx/2021/11/30/prendas-como-nuevas-mas-tiempo/location.href (from https://lavayseca.com.mx/2021/11/30/prendas-como-nuevas-mas-tiempo/)
+13:58:15	Error: 	"Not Found" (404) at link https://lavayseca.com.mx/2021/11/30/prendas-como-nuevas-mas-tiempo/Silk (from https://lavayseca.com.mx/2021/11/30/prendas-como-nuevas-mas-tiempo/)
+13:58:15	Warning: 	Moved Permanently for https://lavayseca.com.mx/?p=2060
+13:58:15	Warning: 	File has moved from https://lavayseca.com.mx/?p=2060 to https://lavayseca.com.mx/2021/11/30/prendas-como-nuevas-mas-tiempo/
+13:58:23	Error: 	"Not Found" (404) at link https://lavayseca.com.mx/2021/12/08/10-platillos-tipicos-de-navidad-en-mexico/location.href (from https://lavayseca.com.mx/2021/12/08/10-platillos-tipicos-de-navidad-en-mexico/)
+13:58:23	Error: 	"Not Found" (404) at link https://lavayseca.com.mx/2021/12/08/10-platillos-tipicos-de-navidad-en-mexico/Silk (from https://lavayseca.com.mx/2021/12/08/10-platillos-tipicos-de-navidad-en-mexico/)
+13:58:23	Warning: 	Moved Permanently for https://lavayseca.com.mx/?p=2127
+13:58:23	Warning: 	File has moved from https://lavayseca.com.mx/?p=2127 to https://lavayseca.com.mx/2021/12/08/10-platillos-tipicos-de-navidad-en-mexico/
+13:58:40	Error: 	"Not Found" (404) at link https://lavayseca.com.mx/2021/12/08/edredones-2-x-100/location.href (from https://lavayseca.com.mx/2021/12/08/edredones-2-x-100/)
+13:58:40	Error: 	"Not Found" (404) at link https://lavayseca.com.mx/2021/12/08/edredones-2-x-100/Silk (from https://lavayseca.com.mx/2021/12/08/edredones-2-x-100/)
+13:58:40	Warning: 	Moved Permanently for https://lavayseca.com.mx/?p=2119
+13:58:40	Warning: 	File has moved from https://lavayseca.com.mx/?p=2119 to https://lavayseca.com.mx/2021/12/08/edredones-2-x-100/
+13:58:40	Error: 	"Not Found" (404) at link https://lavayseca.com.mx/2021/12/08/recarga-y-gana/location.href (from https://lavayseca.com.mx/2021/12/08/recarga-y-gana/)
+13:58:40	Error: 	"Not Found" (404) at link https://lavayseca.com.mx/2021/12/08/recarga-y-gana/Silk (from https://lavayseca.com.mx/2021/12/08/recarga-y-gana/)
+13:58:40	Warning: 	Moved Permanently for https://lavayseca.com.mx/?p=2113
+13:58:40	Warning: 	File has moved from https://lavayseca.com.mx/?p=2113 to https://lavayseca.com.mx/2021/12/08/recarga-y-gana/
+13:58:41	Error: 	"Not Found" (404) at link https://lavayseca.com.mx/wp-content/uploads/2021/11/Post-Promo-SmartTV.jpg (from https://lavayseca.com.mx/2021/12/08/recarga-y-gana/)
+13:58:41	Error: 	"Not Found" (404) at link https://lavayseca.com.mx/2021/12/08/lavado-por-encargo-desde-15-00-kg/location.href (from https://lavayseca.com.mx/2021/12/08/lavado-por-encargo-desde-15-00-kg/)
+13:58:41	Error: 	"Not Found" (404) at link https://lavayseca.com.mx/2021/12/08/lavado-por-encargo-desde-15-00-kg/Silk (from https://lavayseca.com.mx/2021/12/08/lavado-por-encargo-desde-15-00-kg/)
+13:58:41	Warning: 	Moved Permanently for https://lavayseca.com.mx/?p=2106
+13:58:41	Warning: 	File has moved from https://lavayseca.com.mx/?p=2106 to https://lavayseca.com.mx/2021/12/08/lavado-por-encargo-desde-15-00-kg/
+13:58:42	Error: 	"Not Found" (404) at link https://lavayseca.com.mx/wp-content/uploads/2021/12/tabla.jpg (from https://lavayseca.com.mx/2021/12/08/lavado-por-encargo-desde-15-00-kg/)
+13:59:41	Error: 	"Not Found" (404) at link https://lavayseca.com.mx/2021/10/29/lavado-por-autoservicio-desde-2-kg/location.href (from https://lavayseca.com.mx/2021/10/29/lavado-por-autoservicio-desde-2-kg/)
+13:59:41	Error: 	"Not Found" (404) at link https://lavayseca.com.mx/2021/10/29/lavado-por-autoservicio-desde-2-kg/Silk (from https://lavayseca.com.mx/2021/10/29/lavado-por-autoservicio-desde-2-kg/)
+13:59:41	Warning: 	Moved Permanently for https://lavayseca.com.mx/?p=1971
+13:59:41	Warning: 	File has moved from https://lavayseca.com.mx/?p=1971 to https://lavayseca.com.mx/2021/10/29/lavado-por-autoservicio-desde-2-kg/
+13:59:42	Error: 	"Not Found" (404) at link https://lavayseca.com.mx/wp-content/uploads/2021/10/tabla01.jpg (from https://lavayseca.com.mx/2021/10/29/lavado-por-autoservicio-desde-2-kg/)
+13:59:42	Error: 	"Not Found" (404) at link https://lavayseca.com.mx/wp-content/uploads/2021/10/tb02.jpg (from https://lavayseca.com.mx/2021/10/29/lavado-por-autoservicio-desde-2-kg/)
+13:59:43	Error: 	"Not Found" (404) at link https://lavayseca.com.mx/2021/11/30/como-cuidar-el-medio-ambiente-sin-dejar-de-cuidar-mi-ropa/location.href (from https://lavayseca.com.mx/2021/11/30/como-cuidar-el-medio-ambiente-sin-dejar-de-cuidar-mi-ropa/)
+13:59:43	Error: 	"Not Found" (404) at link https://lavayseca.com.mx/2021/11/30/como-cuidar-el-medio-ambiente-sin-dejar-de-cuidar-mi-ropa/Silk (from https://lavayseca.com.mx/2021/11/30/como-cuidar-el-medio-ambiente-sin-dejar-de-cuidar-mi-ropa/)
+13:59:43	Warning: 	Moved Permanently for https://lavayseca.com.mx/?p=2067
+13:59:43	Warning: 	File has moved from https://lavayseca.com.mx/?p=2067 to https://lavayseca.com.mx/2021/11/30/como-cuidar-el-medio-ambiente-sin-dejar-de-cuidar-mi-ropa/
+13:59:44	Error: 	"Not Found" (404) at link https://lavayseca.com.mx/2021/12/08/como-eliminar-cinco-manchas-de-comida-en-ropa-en-las-fiestas-navidenas/location.href (from https://lavayseca.com.mx/2021/12/08/como-eliminar-cinco-manchas-de-comida-en-ropa-en-las-fiestas-navidenas/)
+13:59:44	Error: 	"Not Found" (404) at link https://lavayseca.com.mx/2021/12/08/como-eliminar-cinco-manchas-de-comida-en-ropa-en-las-fiestas-navidenas/Silk (from https://lavayseca.com.mx/2021/12/08/como-eliminar-cinco-manchas-de-comida-en-ropa-en-las-fiestas-navidenas/)
+13:59:44	Warning: 	Moved Permanently for https://lavayseca.com.mx/?p=2100
+13:59:44	Warning: 	File has moved from https://lavayseca.com.mx/?p=2100 to https://lavayseca.com.mx/2021/12/08/como-eliminar-cinco-manchas-de-comida-en-ropa-en-las-fiestas-navidenas/
+13:59:44	Error: 	"Not Found" (404) at link https://lavayseca.com.mx/2021/12/08/como-funciona-una-lavanderia-autoservicio/location.href (from https://lavayseca.com.mx/2021/12/08/como-funciona-una-lavanderia-autoservicio/)
+13:59:44	Error: 	"Not Found" (404) at link https://lavayseca.com.mx/2021/12/08/como-funciona-una-lavanderia-autoservicio/Silk (from https://lavayseca.com.mx/2021/12/08/como-funciona-una-lavanderia-autoservicio/)
+13:59:44	Warning: 	Moved Permanently for https://lavayseca.com.mx/?p=2093
+13:59:44	Warning: 	File has moved from https://lavayseca.com.mx/?p=2093 to https://lavayseca.com.mx/2021/12/08/como-funciona-una-lavanderia-autoservicio/
+13:59:45	Error: 	"Not Found" (404) at link https://lavayseca.com.mx/2021/11/30/cada-cuanto-deberias-lavar-cada-tipo-de-prenda-parte-2/location.href (from https://lavayseca.com.mx/2021/11/30/cada-cuanto-deberias-lavar-cada-tipo-de-prenda-parte-2/)
+13:59:45	Error: 	"Not Found" (404) at link https://lavayseca.com.mx/2021/11/30/cada-cuanto-deberias-lavar-cada-tipo-de-prenda-parte-2/Silk (from https://lavayseca.com.mx/2021/11/30/cada-cuanto-deberias-lavar-cada-tipo-de-prenda-parte-2/)
+13:59:45	Warning: 	Moved Permanently for https://lavayseca.com.mx/?p=2086
+13:59:45	Warning: 	File has moved from https://lavayseca.com.mx/?p=2086 to https://lavayseca.com.mx/2021/11/30/cada-cuanto-deberias-lavar-cada-tipo-de-prenda-parte-2/
+13:59:46	Error: 	"Not Found" (404) at link https://lavayseca.com.mx/2021/11/30/cada-cuanto-deberias-lavar-cada-tipo-de-prenda-jeans-chaquetas-pijamas-parte-1/location.href (from https://lavayseca.com.mx/2021/11/30/cada-cuanto-deberias-lavar-cada-tipo-de-prenda-jeans-chaquetas-pijamas-parte-1/)
+13:59:46	Error: 	"Not Found" (404) at link https://lavayseca.com.mx/2021/11/30/cada-cuanto-deberias-lavar-cada-tipo-de-prenda-jeans-chaquetas-pijamas-parte-1/Silk (from https://lavayseca.com.mx/2021/11/30/cada-cuanto-deberias-lavar-cada-tipo-de-prenda-jeans-chaquetas-pijamas-parte-1/)
+13:59:46	Warning: 	Moved Permanently for https://lavayseca.com.mx/?p=2080
+13:59:46	Warning: 	File has moved from https://lavayseca.com.mx/?p=2080 to https://lavayseca.com.mx/2021/11/30/cada-cuanto-deberias-lavar-cada-tipo-de-prenda-jeans-chaquetas-pijamas-parte-1/
+13:59:46	Error: 	"Not Found" (404) at link https://lavayseca.com.mx/2021/10/13/ventajas-de-lavar-la-ropa-antes-de-usarla-cuales-son/location.href (from https://lavayseca.com.mx/2021/10/13/ventajas-de-lavar-la-ropa-antes-de-usarla-cuales-son/)
+13:59:46	Error: 	"Not Found" (404) at link https://lavayseca.com.mx/2021/10/13/ventajas-de-lavar-la-ropa-antes-de-usarla-cuales-son/Silk (from https://lavayseca.com.mx/2021/10/13/ventajas-de-lavar-la-ropa-antes-de-usarla-cuales-son/)
+13:59:46	Warning: 	Moved Permanently for https://lavayseca.com.mx/?p=1960
+13:59:46	Warning: 	File has moved from https://lavayseca.com.mx/?p=1960 to https://lavayseca.com.mx/2021/10/13/ventajas-de-lavar-la-ropa-antes-de-usarla-cuales-son/
+14:00:21	Error: 	"Not Found" (404) at link https://lavayseca.com.mx/2021/10/13/utiliza-ropa-limpia-siempre-que-puedas/location.href (from https://lavayseca.com.mx/2021/10/13/utiliza-ropa-limpia-siempre-que-puedas/)
+14:00:21	Error: 	"Not Found" (404) at link https://lavayseca.com.mx/2021/10/13/utiliza-ropa-limpia-siempre-que-puedas/Silk (from https://lavayseca.com.mx/2021/10/13/utiliza-ropa-limpia-siempre-que-puedas/)
+14:00:21	Warning: 	Moved Permanently for https://lavayseca.com.mx/?p=1955
+14:00:21	Warning: 	File has moved from https://lavayseca.com.mx/?p=1955 to https://lavayseca.com.mx/2021/10/13/utiliza-ropa-limpia-siempre-que-puedas/
+14:00:22	Error: 	"Not Found" (404) at link https://lavayseca.com.mx/2021/10/13/ventajas-de-lavar-en-una-lavanderia-de-autoservicio/location.href (from https://lavayseca.com.mx/2021/10/13/ventajas-de-lavar-en-una-lavanderia-de-autoservicio/)
+14:00:22	Error: 	"Not Found" (404) at link https://lavayseca.com.mx/2021/10/13/ventajas-de-lavar-en-una-lavanderia-de-autoservicio/Silk (from https://lavayseca.com.mx/2021/10/13/ventajas-de-lavar-en-una-lavanderia-de-autoservicio/)
+14:00:22	Warning: 	Moved Permanently for https://lavayseca.com.mx/?p=1941
+14:00:22	Warning: 	File has moved from https://lavayseca.com.mx/?p=1941 to https://lavayseca.com.mx/2021/10/13/ventajas-de-lavar-en-una-lavanderia-de-autoservicio/
+14:00:23	Error: 	"Not Found" (404) at link https://lavayseca.com.mx/2021/10/13/trucos-para-eliminar-manchas-de-comida-en-la-ropa-facilmente/location.href (from https://lavayseca.com.mx/2021/10/13/trucos-para-eliminar-manchas-de-comida-en-la-ropa-facilmente/)
+14:00:23	Error: 	"Not Found" (404) at link https://lavayseca.com.mx/2021/10/13/trucos-para-eliminar-manchas-de-comida-en-la-ropa-facilmente/Silk (from https://lavayseca.com.mx/2021/10/13/trucos-para-eliminar-manchas-de-comida-en-la-ropa-facilmente/)
+14:00:23	Warning: 	Moved Permanently for https://lavayseca.com.mx/?p=1935
+14:00:23	Warning: 	File has moved from https://lavayseca.com.mx/?p=1935 to https://lavayseca.com.mx/2021/10/13/trucos-para-eliminar-manchas-de-comida-en-la-ropa-facilmente/
+14:00:23	Error: 	"Not Found" (404) at link https://lavayseca.com.mx/2021/10/13/11-alimentos-que-manchan-la-ropa-y-no-se-quitan-facilmente-co/location.href (from https://lavayseca.com.mx/2021/10/13/11-alimentos-que-manchan-la-ropa-y-no-se-quitan-facilmente-co/)
+14:00:23	Error: 	"Not Found" (404) at link https://lavayseca.com.mx/2021/10/13/11-alimentos-que-manchan-la-ropa-y-no-se-quitan-facilmente-co/Silk (from https://lavayseca.com.mx/2021/10/13/11-alimentos-que-manchan-la-ropa-y-no-se-quitan-facilmente-co/)
+14:00:23	Warning: 	Moved Permanently for https://lavayseca.com.mx/?p=1926
+14:00:23	Warning: 	File has moved from https://lavayseca.com.mx/?p=1926 to https://lavayseca.com.mx/2021/10/13/11-alimentos-que-manchan-la-ropa-y-no-se-quitan-facilmente-co/
+14:00:24	Error: 	"Not Found" (404) at link https://lavayseca.com.mx/2021/10/13/11-alimentos-que-manchan-la-ropa-y-no-se-quitan-facilmente/location.href (from https://lavayseca.com.mx/2021/10/13/11-alimentos-que-manchan-la-ropa-y-no-se-quitan-facilmente/)
+14:00:24	Error: 	"Not Found" (404) at link https://lavayseca.com.mx/2021/10/13/11-alimentos-que-manchan-la-ropa-y-no-se-quitan-facilmente/Silk (from https://lavayseca.com.mx/2021/10/13/11-alimentos-que-manchan-la-ropa-y-no-se-quitan-facilmente/)
+14:00:24	Warning: 	Moved Permanently for https://lavayseca.com.mx/?p=1917
+14:00:24	Warning: 	File has moved from https://lavayseca.com.mx/?p=1917 to https://lavayseca.com.mx/2021/10/13/11-alimentos-que-manchan-la-ropa-y-no-se-quitan-facilmente/
+14:00:24	Error: 	"Not Found" (404) at link https://lavayseca.com.mx/2021/09/04/suma-puntos-tarjeta-cliente-frecuente-lavayseca/location.href (from https://lavayseca.com.mx/2021/09/04/suma-puntos-tarjeta-cliente-frecuente-lavayseca/)
+14:00:24	Error: 	"Not Found" (404) at link https://lavayseca.com.mx/2021/09/04/suma-puntos-tarjeta-cliente-frecuente-lavayseca/Silk (from https://lavayseca.com.mx/2021/09/04/suma-puntos-tarjeta-cliente-frecuente-lavayseca/)
+14:00:24	Warning: 	Moved Permanently for https://lavayseca.com.mx/?p=1777
+14:00:24	Warning: 	File has moved from https://lavayseca.com.mx/?p=1777 to https://lavayseca.com.mx/2021/09/04/suma-puntos-tarjeta-cliente-frecuente-lavayseca/
+14:00:24	Error: 	"Not Found" (404) at link https://lavayseca.com.mx/2021/09/04/los-mitos-y-realidades-de-lavado-y-secado-de-la-ropa/location.href (from https://lavayseca.com.mx/2021/09/04/los-mitos-y-realidades-de-lavado-y-secado-de-la-ropa/)
+14:00:24	Error: 	"Not Found" (404) at link https://lavayseca.com.mx/2021/09/04/los-mitos-y-realidades-de-lavado-y-secado-de-la-ropa/Silk (from https://lavayseca.com.mx/2021/09/04/los-mitos-y-realidades-de-lavado-y-secado-de-la-ropa/)
+14:00:24	Warning: 	Moved Permanently for https://lavayseca.com.mx/?p=1771
+14:00:24	Warning: 	File has moved from https://lavayseca.com.mx/?p=1771 to https://lavayseca.com.mx/2021/09/04/los-mitos-y-realidades-de-lavado-y-secado-de-la-ropa/
+14:00:25	Error: 	"Not Found" (404) at link https://lavayseca.com.mx/2021/09/04/lavar-la-ropa-fuera-o-dentro-de-casa-una-decision-que-puede-deslavar-el-bolsillo-o-no/location.href (from https://lavayseca.com.mx/2021/09/04/lavar-la-ropa-fuera-o-dentro-de-casa-una-decision-que-puede-deslavar-el-bolsillo-o-no/)
+14:00:25	Error: 	"Not Found" (404) at link https://lavayseca.com.mx/2021/09/04/lavar-la-ropa-fuera-o-dentro-de-casa-una-decision-que-puede-deslavar-el-bolsillo-o-no/Silk (from https://lavayseca.com.mx/2021/09/04/lavar-la-ropa-fuera-o-dentro-de-casa-una-decision-que-puede-deslavar-el-bolsillo-o-no/)
+14:00:25	Warning: 	Moved Permanently for https://lavayseca.com.mx/?p=1765
+14:00:25	Warning: 	File has moved from https://lavayseca.com.mx/?p=1765 to https://lavayseca.com.mx/2021/09/04/lavar-la-ropa-fuera-o-dentro-de-casa-una-decision-que-puede-deslavar-el-bolsillo-o-no/
+14:00:25	Error: 	"Not Found" (404) at link https://lavayseca.com.mx/2021/09/04/lavanderias-de-autoservicio-una-tendencia-en-crecimiento-en-mexico-parte-2/location.href (from https://lavayseca.com.mx/2021/09/04/lavanderias-de-autoservicio-una-tendencia-en-crecimiento-en-mexico-parte-2/)
+14:00:25	Error: 	"Not Found" (404) at link https://lavayseca.com.mx/2021/09/04/lavanderias-de-autoservicio-una-tendencia-en-crecimiento-en-mexico-parte-2/Silk (from https://lavayseca.com.mx/2021/09/04/lavanderias-de-autoservicio-una-tendencia-en-crecimiento-en-mexico-parte-2/)
+14:00:25	Warning: 	Moved Permanently for https://lavayseca.com.mx/?p=1759
+14:00:25	Warning: 	File has moved from https://lavayseca.com.mx/?p=1759 to https://lavayseca.com.mx/2021/09/04/lavanderias-de-autoservicio-una-tendencia-en-crecimiento-en-mexico-parte-2/
+14:00:26	Error: 	"Not Found" (404) at link https://lavayseca.com.mx/2021/09/04/lavanderias-de-autoservicio-una-tendencia-en-crecimiento-en-mexico-pt1/location.href (from https://lavayseca.com.mx/2021/09/04/lavanderias-de-autoservicio-una-tendencia-en-crecimiento-en-mexico-pt1/)
+14:00:26	Error: 	"Not Found" (404) at link https://lavayseca.com.mx/2021/09/04/lavanderias-de-autoservicio-una-tendencia-en-crecimiento-en-mexico-pt1/Silk (from https://lavayseca.com.mx/2021/09/04/lavanderias-de-autoservicio-una-tendencia-en-crecimiento-en-mexico-pt1/)
+14:00:26	Warning: 	Moved Permanently for https://lavayseca.com.mx/?p=1751
+14:00:26	Warning: 	File has moved from https://lavayseca.com.mx/?p=1751 to https://lavayseca.com.mx/2021/09/04/lavanderias-de-autoservicio-una-tendencia-en-crecimiento-en-mexico-pt1/
+14:00:26	Error: 	"Not Found" (404) at link https://lavayseca.com.mx/2021/06/07/cuatro-razones-por-las-que-llevar-tu-ropa-a-la-lavanderia-2/location.href (from https://lavayseca.com.mx/2021/06/07/cuatro-razones-por-las-que-llevar-tu-ropa-a-la-lavanderia-2/)
+14:00:26	Error: 	"Not Found" (404) at link https://lavayseca.com.mx/2021/06/07/cuatro-razones-por-las-que-llevar-tu-ropa-a-la-lavanderia-2/Silk (from https://lavayseca.com.mx/2021/06/07/cuatro-razones-por-las-que-llevar-tu-ropa-a-la-lavanderia-2/)
+14:00:26	Warning: 	Moved Permanently for https://lavayseca.com.mx/?p=1222
+14:00:26	Warning: 	File has moved from https://lavayseca.com.mx/?p=1222 to https://lavayseca.com.mx/2021/06/07/cuatro-razones-por-las-que-llevar-tu-ropa-a-la-lavanderia-2/
+14:00:27	Error: 	"Not Found" (404) at link https://lavayseca.com.mx/2021/03/21/la-manera-correcta-de-lavar-la-ropa/location.href (from https://lavayseca.com.mx/2021/03/21/la-manera-correcta-de-lavar-la-ropa/)
+14:00:27	Error: 	"Not Found" (404) at link https://lavayseca.com.mx/2021/03/21/la-manera-correcta-de-lavar-la-ropa/Silk (from https://lavayseca.com.mx/2021/03/21/la-manera-correcta-de-lavar-la-ropa/)
+14:00:27	Warning: 	Moved Permanently for https://lavayseca.com.mx/?p=788
+14:00:27	Warning: 	File has moved from https://lavayseca.com.mx/?p=788 to https://lavayseca.com.mx/2021/03/21/la-manera-correcta-de-lavar-la-ropa/
+14:00:27	Error: 	"Not Found" (404) at link https://lavayseca.com.mx/2021/03/21/como-lavar-tu-ropa-sin-maltratarla/location.href (from https://lavayseca.com.mx/2021/03/21/como-lavar-tu-ropa-sin-maltratarla/)
+14:00:27	Error: 	"Not Found" (404) at link https://lavayseca.com.mx/2021/03/21/como-lavar-tu-ropa-sin-maltratarla/Silk (from https://lavayseca.com.mx/2021/03/21/como-lavar-tu-ropa-sin-maltratarla/)
+14:00:27	Warning: 	Moved Permanently for https://lavayseca.com.mx/?p=757
+14:00:27	Warning: 	File has moved from https://lavayseca.com.mx/?p=757 to https://lavayseca.com.mx/2021/03/21/como-lavar-tu-ropa-sin-maltratarla/
+14:00:27	Error: 	"Not Found" (404) at link https://lavayseca.com.mx/2021/03/21/cuatro-razones-por-las-que-llevar-tu-ropa-a-la-lavanderia/location.href (from https://lavayseca.com.mx/2021/03/21/cuatro-razones-por-las-que-llevar-tu-ropa-a-la-lavanderia/)
+14:00:27	Error: 	"Not Found" (404) at link https://lavayseca.com.mx/2021/03/21/cuatro-razones-por-las-que-llevar-tu-ropa-a-la-lavanderia/Silk (from https://lavayseca.com.mx/2021/03/21/cuatro-razones-por-las-que-llevar-tu-ropa-a-la-lavanderia/)
+14:00:27	Warning: 	Moved Permanently for https://lavayseca.com.mx/?p=646
+14:00:27	Warning: 	File has moved from https://lavayseca.com.mx/?p=646 to https://lavayseca.com.mx/2021/03/21/cuatro-razones-por-las-que-llevar-tu-ropa-a-la-lavanderia/
+14:00:32	Warning: 	Moved Permanently for https://lavayseca.com.mx/quienes-somos/?amp=1
+14:00:32	Warning: 	File has moved from https://lavayseca.com.mx/quienes-somos/?amp=1 to https://lavayseca.com.mx/quienes-somos/
+14:00:32	Error: 	"Not Found" (404) at link https://lavayseca.com.mx/2021/09/04/que-es-un-detergente-y-como-funciona/location.href (from https://lavayseca.com.mx/2021/09/04/que-es-un-detergente-y-como-funciona/)
+14:00:32	Error: 	"Not Found" (404) at link https://lavayseca.com.mx/2021/09/04/que-es-un-detergente-y-como-funciona/Silk (from https://lavayseca.com.mx/2021/09/04/que-es-un-detergente-y-como-funciona/)
+14:00:32	Warning: 	Moved Permanently for https://lavayseca.com.mx/?p=1742
+14:00:32	Warning: 	File has moved from https://lavayseca.com.mx/?p=1742 to https://lavayseca.com.mx/2021/09/04/que-es-un-detergente-y-como-funciona/
+14:00:33	Error: 	"Not Found" (404) at link https://lavayseca.com.mx/wp-content/uploads/2021/09/tabla.png (from https://lavayseca.com.mx/2021/09/04/que-es-un-detergente-y-como-funciona/)
+14:00:33	Error: 	"Not Found" (404) at link https://lavayseca.com.mx/2021/09/04/como-cuidar-tus-prendas/location.href (from https://lavayseca.com.mx/2021/09/04/como-cuidar-tus-prendas/)
+14:00:33	Error: 	"Not Found" (404) at link https://lavayseca.com.mx/2021/09/04/como-cuidar-tus-prendas/Silk (from https://lavayseca.com.mx/2021/09/04/como-cuidar-tus-prendas/)
+14:00:33	Warning: 	Moved Permanently for https://lavayseca.com.mx/?p=1729
+14:00:33	Warning: 	File has moved from https://lavayseca.com.mx/?p=1729 to https://lavayseca.com.mx/2021/09/04/como-cuidar-tus-prendas/
+14:00:34	Error: 	"Not Found" (404) at link https://lavayseca.com.mx/2021/09/04/porque-lavar-la-ropa-con-agua-fria/location.href (from https://lavayseca.com.mx/2021/09/04/porque-lavar-la-ropa-con-agua-fria/)
+14:00:34	Error: 	"Not Found" (404) at link https://lavayseca.com.mx/2021/09/04/porque-lavar-la-ropa-con-agua-fria/Silk (from https://lavayseca.com.mx/2021/09/04/porque-lavar-la-ropa-con-agua-fria/)
+14:00:34	Warning: 	Moved Permanently for https://lavayseca.com.mx/?p=1723
+14:00:34	Warning: 	File has moved from https://lavayseca.com.mx/?p=1723 to https://lavayseca.com.mx/2021/09/04/porque-lavar-la-ropa-con-agua-fria/
+14:00:35	Error: 	"Not Found" (404) at link https://lavayseca.com.mx/2021/08/02/historias-de-lavanderia/location.href (from https://lavayseca.com.mx/2021/08/02/historias-de-lavanderia/)
+14:00:35	Error: 	"Not Found" (404) at link https://lavayseca.com.mx/2021/08/02/historias-de-lavanderia/Silk (from https://lavayseca.com.mx/2021/08/02/historias-de-lavanderia/)
+14:00:35	Warning: 	Moved Permanently for https://lavayseca.com.mx/?p=1684
+14:00:35	Warning: 	File has moved from https://lavayseca.com.mx/?p=1684 to https://lavayseca.com.mx/2021/08/02/historias-de-lavanderia/
+14:00:35	Error: 	"Not Found" (404) at link https://lavayseca.com.mx/2021/07/13/5-motivos-por-los-que-no-son-recomendables-los-suavizantes-para-la-ropa/location.href (from https://lavayseca.com.mx/2021/07/13/5-motivos-por-los-que-no-son-recomendables-los-suavizantes-para-la-ropa/)
+14:00:35	Error: 	"Not Found" (404) at link https://lavayseca.com.mx/2021/07/13/5-motivos-por-los-que-no-son-recomendables-los-suavizantes-para-la-ropa/Silk (from https://lavayseca.com.mx/2021/07/13/5-motivos-por-los-que-no-son-recomendables-los-suavizantes-para-la-ropa/)
+14:00:35	Warning: 	Moved Permanently for https://lavayseca.com.mx/?p=1633
+14:00:35	Warning: 	File has moved from https://lavayseca.com.mx/?p=1633 to https://lavayseca.com.mx/2021/07/13/5-motivos-por-los-que-no-son-recomendables-los-suavizantes-para-la-ropa/
+14:00:36	Error: 	"Not Found" (404) at link https://lavayseca.com.mx/2021/07/13/beneficios-de-usar-lavayseca/location.href (from https://lavayseca.com.mx/2021/07/13/beneficios-de-usar-lavayseca/)
+14:00:36	Error: 	"Not Found" (404) at link https://lavayseca.com.mx/2021/07/13/beneficios-de-usar-lavayseca/Silk (from https://lavayseca.com.mx/2021/07/13/beneficios-de-usar-lavayseca/)
+14:00:36	Warning: 	Moved Permanently for https://lavayseca.com.mx/?p=1627
+14:00:36	Warning: 	File has moved from https://lavayseca.com.mx/?p=1627 to https://lavayseca.com.mx/2021/07/13/beneficios-de-usar-lavayseca/
+14:00:39	Error: 	"Not Found" (404) at link https://lavayseca.com.mx/2021/07/13/trucos-quita-manchas/location.href (from https://lavayseca.com.mx/2021/07/13/trucos-quita-manchas/)
+14:00:39	Error: 	"Not Found" (404) at link https://lavayseca.com.mx/2021/07/13/trucos-quita-manchas/Silk (from https://lavayseca.com.mx/2021/07/13/trucos-quita-manchas/)
+14:00:39	Warning: 	Moved Permanently for https://lavayseca.com.mx/?p=1611
+14:00:39	Warning: 	File has moved from https://lavayseca.com.mx/?p=1611 to https://lavayseca.com.mx/2021/07/13/trucos-quita-manchas/
+14:00:40	Error: 	"Not Found" (404) at link https://lavayseca.com.mx/2021/07/12/como-hacer-para-que-tu-ropa-dure-mas-parte-2/location.href (from https://lavayseca.com.mx/2021/07/12/como-hacer-para-que-tu-ropa-dure-mas-parte-2/)
+14:00:40	Error: 	"Not Found" (404) at link https://lavayseca.com.mx/2021/07/12/como-hacer-para-que-tu-ropa-dure-mas-parte-2/Silk (from https://lavayseca.com.mx/2021/07/12/como-hacer-para-que-tu-ropa-dure-mas-parte-2/)
+14:00:40	Warning: 	Moved Permanently for https://lavayseca.com.mx/?p=1604
+14:00:40	Warning: 	File has moved from https://lavayseca.com.mx/?p=1604 to https://lavayseca.com.mx/2021/07/12/como-hacer-para-que-tu-ropa-dure-mas-parte-2/
+14:00:40	Error: 	"Not Found" (404) at link https://lavayseca.com.mx/2021/07/12/como-hacer-para-que-tu-ropa-dure-mas-parte-1/location.href (from https://lavayseca.com.mx/2021/07/12/como-hacer-para-que-tu-ropa-dure-mas-parte-1/)
+14:00:40	Error: 	"Not Found" (404) at link https://lavayseca.com.mx/2021/07/12/como-hacer-para-que-tu-ropa-dure-mas-parte-1/Silk (from https://lavayseca.com.mx/2021/07/12/como-hacer-para-que-tu-ropa-dure-mas-parte-1/)
+14:00:40	Warning: 	Moved Permanently for https://lavayseca.com.mx/?p=1588
+14:00:40	Warning: 	File has moved from https://lavayseca.com.mx/?p=1588 to https://lavayseca.com.mx/2021/07/12/como-hacer-para-que-tu-ropa-dure-mas-parte-1/
+14:00:41	Error: 	"Not Found" (404) at link https://lavayseca.com.mx/2021/06/07/ventajas-de-las-lavanderias-de-autoservicio-lavayseca/location.href (from https://lavayseca.com.mx/2021/06/07/ventajas-de-las-lavanderias-de-autoservicio-lavayseca/)
+14:00:41	Error: 	"Not Found" (404) at link https://lavayseca.com.mx/2021/06/07/ventajas-de-las-lavanderias-de-autoservicio-lavayseca/Silk (from https://lavayseca.com.mx/2021/06/07/ventajas-de-las-lavanderias-de-autoservicio-lavayseca/)
+14:00:41	Warning: 	Moved Permanently for https://lavayseca.com.mx/?p=1459
+14:00:41	Warning: 	File has moved from https://lavayseca.com.mx/?p=1459 to https://lavayseca.com.mx/2021/06/07/ventajas-de-las-lavanderias-de-autoservicio-lavayseca/
+14:00:53	Error: 	"Not Found" (404) at link https://lavayseca.com.mx/location.href (from https://lavayseca.com.mx/sucursales)
+14:00:53	Error: 	"Not Found" (404) at link https://lavayseca.com.mx/Silk (from https://lavayseca.com.mx/sucursales)
+
+HTTrack Website Copier/3.49-2 mirror complete in 6 minutes 59 seconds : 1042 links scanned, 875 files written (65943702 bytes overall) [50521043 bytes received at 120575 bytes/sec], 32768636 bytes transferred using HTTP compression in 463 files, ratio 26%, 19.3 requests per connection
+(108 errors, 115 warnings, 0 messages)
